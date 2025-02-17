@@ -48,4 +48,5 @@ I am always eager to collaborate on innovative tech projects and explore new cha
 
 📍 **Location**: [Canada]  
 [<img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/debnath-niloy)
-[<img src="https://www.flaticon.com/free-icon/github-logo_25231" alt="GitHub" width="24" height="24">](https://github.com/nydebnath)
+
+[<img src="https://i.sstatic.net/tskMh.png" alt="GitHub" width="24" height="24">](https://github.com/nydebnath)
