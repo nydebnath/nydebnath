@@ -22,14 +22,17 @@ I'm excited to connect with fellow tech enthusiasts and visionaries. Let’s col
 
 ## Featured Projects
 
-### 🚀 [Project One](https://github.com/yourgithubusername/project-one)  
-A cutting-edge solution designed to streamline operations in the Banking sector by leveraging AI-driven insights and automation. Built with modern tech stacks and optimized for scalability.
+### [Docu-Chat](https://github.com/nydebnath/docu-chat)  
+DocuChat is an AI-powered application that lets you upload a document (PDF or text) and interact with it through a chat interface. Using advanced AI capabilities, DocuChat allows you to ask questions about the document and get precise answers, making it easy to explore and understand large texts.
 
-### 🔄 [DevOps Automation Toolkit](https://github.com/yourgithubusername/devops-toolkit)  
-An open-source toolkit aimed at simplifying the implementation of CI/CD pipelines and container orchestration, empowering teams to deploy faster and more reliably.
+### [Disaster Relief Bot](https://github.com/nydebnath/disaster-relief-bot)  
+The Disaster Relief Information Bot is a Python-based application designed to provide timely updates and alerts during natural disasters. With a focus on accessibility and real-time processing, this bot can be used by individuals, communities, and organizations to enhance preparedness and response.
 
-### 🤖 [AI-Powered Analytics Platform](https://github.com/yourgithubusername/ai-analytics)  
-A robust analytics platform that harnesses machine learning to provide real-time insights and predictive analytics, transforming raw data into actionable intelligence.
+### [Inner Debate: Angel vs Demon](https://github.com/nydebnath/ethics-n-chaos)  
+The Inner Debate App is a humorous interactive application where an angel and a demon, each sitting on a human's shoulder, attempt to influence the human's decisions. With witty banter, playful persuasion, and endearing attempts, the app simulates the classic moral dilemma in a fun and engaging way.
+
+### [Code-Pal](https://github.com/nydebnath/code-pal)
+Code-Pal is an AI-powered coding assistant that interprets natural language commands and automates code modifications, documentation, testing, and GitHub operations. While tools like GitHub Copilot assist in code generation, they don't provide an end-to-end pipeline for automating coding tasks. Code-Pal is my take on how such a tool should function, integrating code changes, testing, and Git automation into a seamless workflow.
 
 ---
 
@@ -46,6 +49,5 @@ A robust analytics platform that harnesses machine learning to provide real-time
 
 I am always eager to collaborate on innovative tech projects and explore new challenges in the ever-evolving IT landscape. If you're passionate about harnessing technology to drive change, let's connect and create something extraordinary!
 
-📍 **Location**: [Canada]
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/debnath-niloy)
-[<img src="https://i.sstatic.net/tskMh.png" alt="GitHub" width="24" height="24">](https://github.com/nydebnath)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nydebnath)
