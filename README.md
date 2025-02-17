@@ -46,7 +46,6 @@ A robust analytics platform that harnesses machine learning to provide real-time
 
 I am always eager to collaborate on innovative tech projects and explore new challenges in the ever-evolving IT landscape. If you're passionate about harnessing technology to drive change, let's connect and create something extraordinary!
 
-📍 **Location**: [Canada]  
-[<img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/debnath-niloy)
-
+📍 **Location**: [Canada]
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/debnath-niloy)
 [<img src="https://i.sstatic.net/tskMh.png" alt="GitHub" width="24" height="24">](https://github.com/nydebnath)
